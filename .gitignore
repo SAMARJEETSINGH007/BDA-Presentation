@@ -1,0 +1,16 @@
+
+# Compiled Java files
+*.class
+classes/
+
+# Generated JAR files
+*.jar
+
+# MapReduce output
+output/
+
+# Hadoop checksum files
+*.crc
+
+# Hadoop job completion markers
+_SUCCESS
